@@ -1,0 +1,8 @@
+{
+  "name": "Dungeon Escape: Monster Mind",
+  "description": "Standalone turn-based AI dungeon game demonstrating Minimax and Alpha-Beta Pruning algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
